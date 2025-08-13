@@ -1,4 +1,4 @@
-# x-larp
+# tiktok-larp
 
 A userscript to LARP your username and followers on [tiktok.com](https://tiktok.com) - made by wish and fusi.
 
